@@ -1,3 +1,8 @@
+---
+title: MCUNC Wiki镜像站
+outline: 3
+sidebar: false
+---
 # 下载Minecraft (国际版)
 
 > 本文来源: [MCUNC Wiki](https://wiki.mcunc.cn/常见问题/下载MC)
@@ -23,7 +28,7 @@
 购买链接：<https://www.xbox.com/zh-cn/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj>
 
 :::tip
-(通过该链接使用XBOX购买无需跨区、翻墙，支持支付宝及银行卡/信用卡支付-**暂不支持微信**）
+（通过该链接使用XBOX购买无需跨区、翻墙，支持支付宝及银行卡/信用卡支付-**暂不支持微信**）
 :::
 
 购买完成后，根据xbox提示下载安装即可
@@ -31,7 +36,7 @@
 #### 2. 第三方启动器
 
 :::warning
-> 警告：第三方启动器来源于网络，本wiki仅作推荐，请仔细分别。
+警告：第三方启动器来源于网络，本wiki仅作推荐，请仔细分别。
 :::
 
 ##### Pain Craft Launcher 2 (PCL2)（推荐）
@@ -99,7 +104,7 @@ Google play和苹果App Store不在国区出售，美区价格均为6.99USD。
 :::
 
 #### 第三方下载
-##### mcapks（由苦力怕论坛提供）(推荐）（安卓）
+##### mcapks（由苦力怕论坛提供）（推荐）（安卓）
 苦力怕论坛链接：<https://klpbbs.com/>
 mcapks链接：<https://mcapks.net>
 
@@ -107,9 +112,8 @@ mcapks链接：<https://mcapks.net>
 官网链接：<https://www.iios.me>
 其作用就是可以借你一个已购买MC苹果账户给你下载。由于法律、Apple用户条款等原因，此处不便透露详细信息。
 
-:::warning
-由于苹果官方管的较严，非正版的方法都要涉及到租借账户，自签名等。这些方法通常需要谨慎，这里仅推荐几个腐竹本人使用过觉得还行的方法。本站及无尽创意管理团队不对因此造成的任何问题承担法律责任。
-:::
+> [!CAUTION]
+> 由于苹果官方管的较严，非正版的方法都要涉及到租借账户，自签名等。这些方法通常需要谨慎，这里仅推荐几个腐竹本人使用过觉得还行的方法。本站及无尽创意管理团队不对因此造成的任何问题承担法律责任。
 
 ## 参考资料
 > [[Bilibili视频]`iOS国际基岩版教程，，不越狱`(BV1aJe1e4EE4)](https://www.bilibili.com/video/BV1aJe1e4EE4)

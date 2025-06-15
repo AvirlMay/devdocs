@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "云洛语秋的文档",
+  description: "一个测试用文档站",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: 'MCUNCWiki镜像站', link: '/MCUNCWikiMirror' }
     ],
 
     sidebar: [
@@ -22,7 +22,18 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/AvirlMay/devdocs' }
     ]
+  },
+  
+  markdown: {
+    lineNumbers: true
+  },
+
+  locales: {
+    root: {
+      label: '简体中文',
+      lang: 'zh-CN'
+    }
   }
 })
