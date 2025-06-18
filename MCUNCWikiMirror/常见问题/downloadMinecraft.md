@@ -79,6 +79,9 @@ GitHub仓库：<https://github.com/FCL-Team/FoldCraftLauncher>
 
 #### Pojav Launcher  （安卓/iOS/iPadOS）
 
+> [!CAUTION]
+> 由于JIT权限无法被正常获取（当然，如果您有XCode可以开启JIT权限的话，当我没说），**iOS16.7+和iPadOS16.7+无法使用Pojav Launcher启动Minecraft**。请另寻他法。
+
 官网：<https://pojavlauncher.app/>
 
 安卓下载：[Google play](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch) | [GitHub](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
@@ -118,4 +121,4 @@ mcapks链接：<https://mcapks.net>
 ## 参考资料
 > [[Bilibili视频]`iOS国际基岩版教程，，不越狱`(BV1aJe1e4EE4)](https://www.bilibili.com/video/BV1aJe1e4EE4)
 
-> [[Bilibili视频]`【全网最细】保姆级我的世界Java版启动器 PojavLauncher ios版安装教程 免越狱 免电脑 一看就会 iPhone iPad`(BV1c44y1Z7eW)](https://www.bilibili.com/video/BV1c44y1Z7eW)
+> [[Bilibili视频]`【全网最细】保姆级我的世界Java版启动器 PojavLauncher ios版安装教程 免越狱 免电脑 一看就会 iPhone iPad`(BV1c44y1Z7eW)](https://www.bilibili.com/video/BV1c44y1Z7eW)(曾引用过)
