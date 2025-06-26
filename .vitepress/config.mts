@@ -27,7 +27,8 @@ export default defineConfig({
   },
   
   markdown: {
-    lineNumbers: true
+    lineNumbers: true,
+    math: true
   },
 
   locales: {
